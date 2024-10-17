@@ -15,7 +15,12 @@
 
     ///////////////// */
 
+.flex-container {
+  display: flex;
+}
+
 .column {
   padding: 2rem;
   border: 2px solid black;
+  width: 100%;
 }
